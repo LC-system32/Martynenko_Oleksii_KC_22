@@ -1,4 +1,4 @@
-﻿namespace Курсова_робота
+namespace Курсова_робота
 {
     partial class FreeFall
     {
