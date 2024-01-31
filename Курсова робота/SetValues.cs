@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -75,12 +75,13 @@ namespace Курсова_робота
 
             freeFall.Show();
             freeFall.FormClosed += FreeFall_FormClosed;
-
         }
+
         private void FreeFall_FormClosed(object sender, FormClosedEventArgs e)
         {
             this.Show();
         }
+
         private void DefaultValues_Click(object sender, EventArgs e)
         {
             FreeFall freeFall = new FreeFall();
