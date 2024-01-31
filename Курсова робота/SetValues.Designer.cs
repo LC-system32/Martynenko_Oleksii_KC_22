@@ -1,4 +1,4 @@
-﻿using Курсова_робота.Properties;
+using Курсова_робота.Properties;
 
 namespace Курсова_робота
 {
