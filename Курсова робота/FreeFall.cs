@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualBasic.Devices;
+using Microsoft.VisualBasic.Devices;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -56,10 +56,10 @@ namespace Курсова_робота
 
         public FreeFall()
         {
-            PositionY = 300;
-            Speed = 1;
-            Mass = 1;
-            Wind = 1;
+            PositionY = 500;
+            Speed = 20;
+            Mass = 2;
+            Wind = 40;
 
             InitializeUi();
         }
